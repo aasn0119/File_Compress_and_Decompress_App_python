@@ -1,6 +1,6 @@
 # Compression Engine
 
-![App Screenshot](./File_Compress_and_Decompress_App_python/img.png)
+![App Screenshot](img.png)
 
 ## Overview
 
@@ -63,11 +63,5 @@ Welcome to the Compression Engine, a user-friendly tool for file compression and
 ## Contributors
 
 - Anuj Trivedi (@aasn0119)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 Enjoy compressing and decompressing your text files with the Compression Engine! 😊
